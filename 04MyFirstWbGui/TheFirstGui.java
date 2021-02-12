@@ -18,7 +18,7 @@ public class TheFirstGui extends JFrame
 		TheFirstGui g = new TheFirstGui();
 	}
 	
-	TheFirstGui() 
+	public TheFirstGui() 
 	{
 		initComponents();
 		createEvents();
@@ -35,7 +35,7 @@ public class TheFirstGui extends JFrame
 		setTitle("My First Gui");
 		c.setBackground(Color.YELLOW);
 		
-		// Creeër wat componenten.
+		// CreeÃ«r wat componenten.
 		btnApply = new JButton("Apply");
 		btnApply.setToolTipText("It's a button");
 		btnApply.setBackground(Color.BLUE);
