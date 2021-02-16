@@ -1,2 +1,0 @@
-Small Swing app that contains a formpanel which submits the user's name and occupation on a textpanel. For now I will work without WindowBuilder to organize my code better. The button implements
-an actionlistener and the mainframe communicates with these listeners and performs an event if neccessary. The goal is to work towards a full fledged Model View Controller design.  
